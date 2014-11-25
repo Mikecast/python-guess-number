@@ -1,0 +1,61 @@
+[33mcommit f24e8299c28f5a6bc609e8cb23b95fefccb22c3a[m
+Author: Miguel Castillo <miguelangelcastilloalcantara@gmail.com>
+Date:   Tue Nov 25 13:40:43 2014 -0600
+
+    Version 1 sin arreglos.
+
+[33mcommit 6d2dfddac4aebbd1009ba1b559cebd9ccf35b73a[m
+Author: Ludwin Garcia <lgarcia@cognits.co>
+Date:   Mon Nov 24 17:01:18 2014 -0600
+
+    Modificacion del Codigo
+    
+    Se modifico el código para ejecutar el test correctamente.
+
+[33mcommit 3f79e2d861b6568f8ee0a5ec9ecff5bee366cc67[m
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Mon Nov 24 15:31:18 2014 -0600
+
+    Added nose and pylint as required libraries.
+
+[33mcommit e9afece9af053d219d103a58e8152e5ac39355f1[m
+Merge: b44e7a4 a6f42bb
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Mon Nov 24 15:28:08 2014 -0600
+
+    Merge branch 'master' of https://github.com/cognits/python-guess-number
+
+[33mcommit b44e7a42f7dfeb6186ab2fc6b85d27980981d930[m
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Mon Nov 24 15:28:02 2014 -0600
+
+    Added travis build file and python requirements text file.
+
+[33mcommit a6f42bb22abd004a09ae0b14bb095a756ade6a95[m
+Author: Ludwin Garcia <lgarcia@cognits.co>
+Date:   Mon Nov 24 11:59:38 2014 -0600
+
+    Install Commands Modified
+    
+    Install Commands Modified
+    
+    "pip install -U unittest" by "sudo apt-get install python-pip"
+    "pip install -U pylint" by "sudo pip install -U pylint"
+
+[33mcommit 7c93ca4461b5c7b652ec09a32e43dcb1799eb636[m
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Sun Nov 23 19:28:59 2014 -0600
+
+    Modified instructions.
+
+[33mcommit 81663c50b4d940947f8ce779007824326c857a39[m
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Sun Nov 23 19:23:45 2014 -0600
+
+    Initial commit
+
+[33mcommit 5a85563caa6ba92791488ecfbf8b4fe504b56123[m
+Author: Sebastian Ibarguen <s@cognits.co>
+Date:   Sun Nov 23 19:23:00 2014 -0600
+
+    first commit
